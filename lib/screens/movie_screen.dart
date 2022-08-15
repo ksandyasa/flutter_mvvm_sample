@@ -26,7 +26,7 @@ class _MovieListPageState extends State<MovieListPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Movies MVVM Example"),
+        title: Text("Enterprise Store"),
       ),
       body: Container(
         padding: EdgeInsets.all(10),
